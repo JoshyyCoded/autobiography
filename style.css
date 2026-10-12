@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff0f5;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+h1, h2, h3 { color: #d63384; }
+nav a { color: #d63384; font-weight: bold; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+img { border-radius: 12px; max-width: 100%; }
+ul { display: inline-block; text-align: left; }
